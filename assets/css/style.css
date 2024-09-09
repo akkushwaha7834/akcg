@@ -5,7 +5,7 @@
     --primary-light: #603f832b;
     --secondary: #e69a8d;
     --white: #f8f9fa;
-    --black: #212529;
+    --black: #000;
 }
 
 * {
@@ -52,7 +52,7 @@ button:focus {
 }
 
 .bgc-primary {
-    background-color: var(--primary);
+    background-color: var(--black);
 }
 
 .bgc-secondary {
@@ -267,7 +267,7 @@ footer{
 }
 .btn.bttn_form {
     padding: 10px 20px;
-    background: var(--secondary);
+    background: var(--black);
     color: #fff;
 }
 .pro-social {
@@ -289,7 +289,7 @@ footer{
     color: var(--white);
 }
 .location-tag {
-    background: linear-gradient(90deg, rgba(255, 0, 255) 0%, rgba(128, 0, 128) 51%, rgba(255, 255, 0) 100%);
+    background: linear-gradient(90deg, rgb(183 0 141) 0%, rgba(128, 0, 128) 51%, rgb(241 20 120) 100%);
     color: #fff;
 }
 .location-tag a{
@@ -470,8 +470,7 @@ footer{
     margin-bottom: 40px;
 }
 .service-cta-list a {
-    border: solid 1px var(--primary);
-    background: linear-gradient(90deg, rgba(255, 0, 255) 0%, rgba(128, 0, 128) 51%, rgba(255, 255, 0) 100%);
+    background: linear-gradient(90deg, rgb(183 0 141) 0%, rgba(128, 0, 128) 51%, rgb(241 20 120) 100%);
     padding: 10px 15px;
     font-weight: 600;
     font-size: 16px;
@@ -479,9 +478,10 @@ footer{
     border-radius: 4px;
 }
 .service-cta-list a:hover {
-    background: var(--secondary);
-    color: var(--black);
+    background: var(--black);
+    color: var(--white);
     border-radius: 4px;
+    border: 0;
 }
 .ib-table table {
     width: 100%;

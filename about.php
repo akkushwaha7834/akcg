@@ -1,7 +1,7 @@
 <?php include_once('./include/header.php') ?>
-
-<!-- hero section -->
-<img src="./assets/img/banner.webp" alt="Hero Banner" class="img-fluid pe-none" width="100%" />
+<section class="banner">
+   <img src="./assets/img/banner-1.webp" class="img-fluid" width="100%">
+</section>
 
 <section>
     <div class="container">
