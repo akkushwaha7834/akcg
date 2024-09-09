@@ -1,5 +1,5 @@
 <!-- footer start -->
-<footer class="bgc-primary pb-3 pt-5">
+<footer class="bgc-primary">
     <div class="container">
         <div class="row gy-4">
             <div class="col-lg-3">
@@ -98,7 +98,7 @@
             <div class="modal-body">
                 <div class="row gy-4">
                     <div class="col-md-6 text-center">
-                        <img src="./assets/img/gallery-1.webp" alt="" class="object-fit-cover rounded" height="400">
+                        <img src="./assets/img/me.jpg" alt="" class="object-fit-cover rounded" height="400">
                     </div>
                     <div class="col-md-6">
                         <ul class="list-unstyled d-flex flex-column gap-2 model-pop-detail">
@@ -140,6 +140,19 @@
             </div>
         </div>
     </div>
+</div>
+
+<div class="nowcalling">
+   <div class="lcol">
+      <a href="tel:+911234567890">
+         Call Now
+      </a>
+   </div>
+   <div class="rcol">
+      <a href="#">
+         WhatsApp
+      </a>
+   </div>
 </div>
 
 <script src="./assets/js/bootstrap.bundle.min.js"></script>

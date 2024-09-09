@@ -13,7 +13,7 @@
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro temporibus consectetur beatae aliquid iusto eius culpa laboriosam atque nisi deleniti obcaecati rem vero modi est recusandae officiis, dolor accusamus, placeat labore distinctio! Odio perferendis illo porro officia natus necessitatibus nostrum!</p>
             </div>
             <div class="col-md-6 col-lg-5 offset-lg-1">
-                <img src="./assets/img/top-rt-img.webp" alt="" class="img-fluid">
+                <img src="./assets/img/me.jpg" alt="" class="img-fluid">
             </div>
         </div>
     </div>
@@ -39,7 +39,7 @@
     <div class="container">
         <div class="row gy-4 align-items-center">
             <div class="col-md-6 col-lg-5 offset-lg-1">
-                <img src="./assets/img/top-rt-img.webp" alt="" class="img-fluid">
+                <img src="./assets/img/me.jpg" alt="" class="img-fluid">
             </div>
             <div class="col-md-6">
                 <h2 class="text-primary">About Lucknow Escorts Service</h2>

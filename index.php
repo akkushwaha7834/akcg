@@ -1,6 +1,12 @@
 <?php include_once('include/header.php'); ?>
 <!-- hero section -->
-<img src="./assets/img/banner.webp" alt="Hero Banner" class="img-fluid pe-none" width="100%" />
+
+<!-- <section class="banner">
+   <img src="./assets/img/banner-1.webp" alt="Hero Banner" class="img-fluid pe-none" width="100%" />   
+</section> -->
+<section class="banner">
+   <img src="./assets/img/banner-1.webp" class="img-fluid" width="100%">
+</section>
 <section>
    <div class="container">
       <div class="row mb-5">
@@ -16,7 +22,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -45,7 +51,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -74,7 +80,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -103,7 +109,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -132,7 +138,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -161,7 +167,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -190,7 +196,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -219,7 +225,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -258,7 +264,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -287,7 +293,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -316,7 +322,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -345,7 +351,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -374,7 +380,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -403,7 +409,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -432,7 +438,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -461,7 +467,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/gallery-1.webp" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -496,7 +502,7 @@
    <div class="container">
       <div class="row gy-4">
          <div class="col-md-6 col-lg-4">
-            <img src="./assets/img/top-rt-img.webp" alt="" class="img-fluid rounded">
+            <img src="./assets/img/me.jpg" alt="" class="img-fluid rounded">
          </div>
          <div class="col-md-6 col-lg-7 offset-lg-1">
             <h2 class="text-white mb-3">Lorem ipsum dolor sit</h2>
@@ -523,7 +529,7 @@
       </div>
    </div>
 </section>
-<section class="custom-dark-bg">
+<section class="bg-dark-section">
    <div class="container">
       <div class="row gy-4">
          <div class="col-12 text-center">
@@ -534,7 +540,7 @@
                <div class="row g-0">
                   <div class="col-lg-4">
                      <a href="#">
-                     <img src="./assets/img/gallery-1.webp" class="img-fluid escort-img" alt="">
+                     <img src="./assets/img/me.jpg" class="img-fluid escort-img" alt="">
                      </a>
                   </div>
                   <div class="col-lg-8">
@@ -567,7 +573,7 @@
                <div class="row g-0">
                   <div class="col-lg-4">
                      <a href="#">
-                     <img src="./assets/img/gallery-1.webp" class="img-fluid escort-img" alt="">
+                     <img src="./assets/img/me.jpg" class="img-fluid escort-img" alt="">
                      </a>
                   </div>
                   <div class="col-lg-8">
@@ -600,7 +606,7 @@
                <div class="row g-0">
                   <div class="col-lg-4">
                      <a href="#">
-                     <img src="./assets/img/gallery-1.webp" class="img-fluid escort-img" alt="">
+                     <img src="./assets/img/me.jpg" class="img-fluid escort-img" alt="">
                      </a>
                   </div>
                   <div class="col-lg-8">
@@ -633,7 +639,7 @@
                <div class="row g-0">
                   <div class="col-lg-4">
                      <a href="#">
-                     <img src="./assets/img/gallery-1.webp" class="img-fluid escort-img" alt="">
+                     <img src="./assets/img/me.jpg" class="img-fluid escort-img" alt="">
                      </a>
                   </div>
                   <div class="col-lg-8">
