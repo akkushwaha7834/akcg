@@ -18,7 +18,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/9.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -31,14 +31,14 @@
                         <li>Female</li>
                         <li>18 years</li>
                      </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <span><img src="./assets/img/location.svg" alt="location"> Gujrat / Vadodara</span>
                      <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                        <a class="thm-btn"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> Chat</a>
                      </div>
                      <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> </a>
                      </div>
                   </div>
                </div>
@@ -47,7 +47,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/2.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -60,14 +60,14 @@
                         <li>Female</li>
                         <li>18 years</li>
                      </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <span><img src="./assets/img/location.svg" alt="location"> Gujrat / Vadodara</span>
                      <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                        <a class="thm-btn"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> Chat</a>
                      </div>
                      <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> </a>
                      </div>
                   </div>
                </div>
@@ -76,7 +76,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/3.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -89,14 +89,14 @@
                         <li>Female</li>
                         <li>18 years</li>
                      </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <span><img src="./assets/img/location.svg" alt="location"> Gujrat / Vadodara</span>
                      <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                        <a class="thm-btn"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> Chat</a>
                      </div>
                      <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> </a>
                      </div>
                   </div>
                </div>
@@ -105,7 +105,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/4.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -118,14 +118,14 @@
                         <li>Female</li>
                         <li>18 years</li>
                      </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <span><img src="./assets/img/location.svg" alt="location"> Gujrat / Vadodara</span>
                      <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                        <a class="thm-btn"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> Chat</a>
                      </div>
                      <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> </a>
                      </div>
                   </div>
                </div>
@@ -134,7 +134,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/5.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -147,14 +147,14 @@
                         <li>Female</li>
                         <li>18 years</li>
                      </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <span><img src="./assets/img/location.svg" alt="location"> Gujrat / Vadodara</span>
                      <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                        <a class="thm-btn"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> Chat</a>
                      </div>
                      <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> </a>
                      </div>
                   </div>
                </div>
@@ -163,7 +163,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/6.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -176,14 +176,14 @@
                         <li>Female</li>
                         <li>18 years</li>
                      </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <span><img src="./assets/img/location.svg" alt="location"> Gujrat / Vadodara</span>
                      <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                        <a class="thm-btn"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> Chat</a>
                      </div>
                      <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> </a>
                      </div>
                   </div>
                </div>
@@ -192,7 +192,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/7.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -205,14 +205,14 @@
                         <li>Female</li>
                         <li>18 years</li>
                      </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <span><img src="./assets/img/location.svg" alt="location"> Gujrat / Vadodara</span>
                      <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                        <a class="thm-btn"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> Chat</a>
                      </div>
                      <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> </a>
                      </div>
                   </div>
                </div>
@@ -221,7 +221,7 @@
                <div class="product-inner-list">
                   <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
+                        <img loading="lazy" src="./assets/img/8.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
                      </div>
                   </a>
                   <div class="product-list-detail">
@@ -234,14 +234,14 @@
                         <li>Female</li>
                         <li>18 years</li>
                      </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
+                     <span><img src="./assets/img/location.svg" alt="location"> Gujrat / Vadodara</span>
                      <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
+                        <a class="thm-btn"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> Chat</a>
                      </div>
                      <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
+                        <a class="thm-btn" href="tel:7302480569"><span><img src="./assets/img/call-icon.svg" alt="call icon"></span> </a>
+                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="./assets/img/whatsapp.svg" alt="whatsapp"></span> </a>
                      </div>
                   </div>
                </div>
@@ -251,254 +251,11 @@
    </div>
 </section>
 
-<!-- 
-<section class="escorts-lising-new">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-12">
-            <div class="product-list-box">
-               <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
-                     <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
-                     </div>
-                  </a>
-                  <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
-                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
-                     </a>
-                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
-                     <ul>
-                        <li>Escorts</li>
-                        <li>Female</li>
-                        <li>18 years</li>
-                     </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
-                     <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
-                     </div>
-                     <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="product-list-box">
-               <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
-                     <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
-                     </div>
-                  </a>
-                  <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
-                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
-                     </a>
-                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
-                     <ul>
-                        <li>Escorts</li>
-                        <li>Female</li>
-                        <li>18 years</li>
-                     </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
-                     <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
-                     </div>
-                     <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="product-list-box">
-               <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
-                     <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
-                     </div>
-                  </a>
-                  <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
-                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
-                     </a>
-                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
-                     <ul>
-                        <li>Escorts</li>
-                        <li>Female</li>
-                        <li>18 years</li>
-                     </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
-                     <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
-                     </div>
-                     <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="product-list-box">
-               <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
-                     <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
-                     </div>
-                  </a>
-                  <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
-                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
-                     </a>
-                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
-                     <ul>
-                        <li>Escorts</li>
-                        <li>Female</li>
-                        <li>18 years</li>
-                     </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
-                     <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
-                     </div>
-                     <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="product-list-box">
-               <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
-                     <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
-                     </div>
-                  </a>
-                  <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
-                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
-                     </a>
-                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
-                     <ul>
-                        <li>Escorts</li>
-                        <li>Female</li>
-                        <li>18 years</li>
-                     </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
-                     <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
-                     </div>
-                     <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="product-list-box">
-               <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
-                     <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
-                     </div>
-                  </a>
-                  <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
-                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
-                     </a>
-                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
-                     <ul>
-                        <li>Escorts</li>
-                        <li>Female</li>
-                        <li>18 years</li>
-                     </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
-                     <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
-                     </div>
-                     <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="product-list-box">
-               <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
-                     <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
-                     </div>
-                  </a>
-                  <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
-                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
-                     </a>
-                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
-                     <ul>
-                        <li>Escorts</li>
-                        <li>Female</li>
-                        <li>18 years</li>
-                     </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
-                     <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
-                     </div>
-                     <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="product-list-box">
-               <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
-                     <div class="product-img">
-                        <img loading="lazy" src="./assets/img/me.jpg" alt="VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE">
-                     </div>
-                  </a>
-                  <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
-                        <h4>VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h4>
-                     </a>
-                     <p>⭐⭐⭐⭐➡️ WHATSAPP MESSAGE ⬇️HOT &amp; SEXY MODELS // COLLEGE GIRLS &amp; AUNTIES AVAILABLE AVAILABLE FOR COMPLETE ENJOYMENT WITH HIGH PROFILE INDIAN MODEL AVAILABLE HOTEL &amp; HOME SERVICE AVAILABLE ★ SAFE AND SECURE HIGH CLASS SERVICE AFFORDABLE RATE ★ 💯% SATISFACTION,UNLIMITED ENJOYMENT. ★ All Meetings are confidential and no information is provided to any one at any cost. ★ EXCLUSIVE PROFILes Are Safe and Consensual with Most Limits Respected ★ Service Available In: - HOME &amp; HOTEL 24x7 AVAILABLE 3️⃣🌟5️⃣ 🌟6️⃣🌟Star Hotel Service .In Call &amp; Out call SeRvIcEs : ★ A-Level (5 star escort) ★ Strip-tease ★ BBBJ (Bareback Blowjob)Receive advanced sexual techniques in different mode make their life more pleasurable. ★ Spending time in hotel rooms ★ BJ (Blowjob Without a Condom) ★ Completion (Oral to completion) ★ Covered (Covered blowjob Without condom 💯% SAFE AND SECURE GENUINE SERVICE UNLIMITED ENJOY KAVYA SERVICE COMPANY</p>
-                     <ul>
-                        <li>Escorts</li>
-                        <li>Female</li>
-                        <li>18 years</li>
-                     </ul>
-                     <span><img src="https://in.nsibal.com/imgs/location.svg" alt="location"> Gujrat / Vadodara</span>
-                     <div class="share-btn-right call-info-btn">
-                        <a class="thm-btn"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span><span id="spanPhone">Phone</span></a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> Chat</a>
-                     </div>
-                     <div class="share-btn-right call-info-btn-mob">
-                        <a class="thm-btn" href="tel:7302480569"><span><img src="https://in.nsibal.com/imgs/call-icon.svg" alt="call icon"></span> </a>
-                        <a class="thm-btn whatsapp-btn" href="#" target="_blank"><span><img src="https://in.nsibal.com/imgs/whatsapp.svg" alt="whatsapp"></span> </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section> -->
-
-
 <section class="bg-dark-section">
    <div class="container">
-      <div class="row gy-4">
+      <div class="row gy-4 align-items-center">
          <div class="col-md-6 col-lg-4">
-            <img src="./assets/img/me.jpg" alt="" class="img-fluid rounded">
+            <img src="./assets/img/top-rt-img.webp" alt="" class="img-fluid rounded">
          </div>
          <div class="col-md-6 col-lg-7 offset-lg-1">
             <h2 class="text-white mb-3">Lorem ipsum dolor sit</h2>
@@ -536,7 +293,7 @@
                <div class="row g-0">
                   <div class="col-lg-4">
                      <a href="#">
-                     <img src="./assets/img/me.jpg" class="img-fluid escort-img" alt="">
+                     <img src="./assets/img/10.jpg" class="img-fluid escort-img" alt="">
                      </a>
                   </div>
                   <div class="col-lg-8">
@@ -569,7 +326,7 @@
                <div class="row g-0">
                   <div class="col-lg-4">
                      <a href="#">
-                     <img src="./assets/img/me.jpg" class="img-fluid escort-img" alt="">
+                     <img src="./assets/img/11.jpg" class="img-fluid escort-img" alt="">
                      </a>
                   </div>
                   <div class="col-lg-8">
@@ -602,7 +359,7 @@
                <div class="row g-0">
                   <div class="col-lg-4">
                      <a href="#">
-                     <img src="./assets/img/me.jpg" class="img-fluid escort-img" alt="">
+                     <img src="./assets/img/12.jpg" class="img-fluid escort-img" alt="">
                      </a>
                   </div>
                   <div class="col-lg-8">
@@ -635,7 +392,7 @@
                <div class="row g-0">
                   <div class="col-lg-4">
                      <a href="#">
-                     <img src="./assets/img/me.jpg" class="img-fluid escort-img" alt="">
+                     <img src="./assets/img/13.jpg" class="img-fluid escort-img" alt="">
                      </a>
                   </div>
                   <div class="col-lg-8">

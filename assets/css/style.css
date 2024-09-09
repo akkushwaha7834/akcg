@@ -117,7 +117,7 @@ section.banner {
 
 .nav-link:focus,
 .nav-link:hover {
-    --bs-nav-link-hover-color: var(--secondary);
+    --bs-nav-link-hover-color: var(--white);
 }
 
 /* footer */
@@ -238,7 +238,7 @@ footer{
         bottom: 0;
         width: 0;
         height: 3px;
-        background-color: var(--secondary);
+        background-color: var(--white);
         -o-transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275);
         transition: all cubic-bezier(0.175, 0.885, 0.32, 1.275);
     }
