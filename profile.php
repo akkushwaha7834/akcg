@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row gy-4">
             <div class="col-12">
-                <h2 class="text-center">VIP TODAY LOW PRICE 100% SECURE GENUINE CALL GIRL AFFORDABLE PRICE CALL NOW 247 AVAILABLE</h2>
+                <h2 class="text-center">100% Secure Genuine Call Girl in Delhi</h2>
             </div>
         </div>
         <div class="row mt-5">
