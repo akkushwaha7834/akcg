@@ -520,3 +520,79 @@ footer{
 .rcol {
     background-color: #06B27D;
 }
+.pricing {
+    background: var(--primary-light);
+    padding: 40px 20px;
+    border-radius: 8px;
+    border: 1px solid var(--primary) !important;
+    height: 100%;
+    transition-duration: .3s;
+}
+.service_price_list {
+    position: relative;
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 400;
+    text-align: center;
+}
+.pricing_para.one {
+    font-size: 35px;
+    line-height: 45px;
+/*    color: #000;*/
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: 800;
+}
+.btton-one {
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    border-radius: 8px;
+    border: 1px solid #000;
+    transition-duration: .3s;
+}
+.frame-parent1, .frame-parent4 {
+    margin-top: 30px;
+}
+.tick-parent {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 12px;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.recommended {
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: linear-gradient(90deg, rgba(255, 0, 255) 0%, rgba(128, 0, 128) 51%, rgba(255, 255, 0) 100%);
+    color: #fff;
+    padding: 4px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.pricing_one {
+    padding: 40px 20px;
+    border-radius: 8px;
+    border: 1px solid var(--secondary) !important;
+    background: var(--black) !important;
+    transition-duration: .3s;
+    color: #fff;
+    position: relative;
+    transform: scale(1.05);
+}
+.btton {
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    color: #fff !important;
+    border-radius: 8px;
+    border: 1px solid #EBEBEF;
+    transition-duration: .3s;
+}
