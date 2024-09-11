@@ -16,7 +16,6 @@
                         <thead class="table-dark">
                             <tr>
                                 <th>Type</th>
-                                <th>Category</th>
                                 <th>1 Hour</th>
                                 <th>4 Hours</th>
                                 <th>Full Time</th>
@@ -25,38 +24,39 @@
                         <tbody>
                             <tr>
                                 <td>College Girls</td>
-                                <td>Lucknow call girl</td>
                                 <td>5500</td>
                                 <td>10,000</td>
                                 <td>20,000</td>
                             </tr>
                             <tr>
-                                <td>Housewives Escorts</td>
-                                <td>escort call girls</td>
+                                <td>Housewife</td>
                                 <td>6000</td>
                                 <td>12,000</td>
                                 <td>22,000</td>
                             </tr>
                             <tr>
-                                <td>Russian Girls</td>
-                                <td>call girl in Lucknow</td>
+                                <td>Model Escorts</td>
                                 <td>14,000</td>
                                 <td>20,000</td>
                                 <td>30,000</td>
                             </tr>
                             <tr>
-                                <td>Celebrity Escorts</td>
-                                <td>Lucknow call girls</td>
+                                <td>Air Hostess</td>
                                 <td>20,000</td>
                                 <td>35,000</td>
                                 <td>50,000</td>
                             </tr>
                             <tr>
-                                <td>Independent Girls</td>
-                                <td>escort service Lucknow</td>
+                                <td>Desi Escorts</td>
                                 <td>10,000</td>
                                 <td>15,000</td>
                                 <td>25,000</td>
+                            </tr>
+                            <tr>
+                                <td>Muslim Escorts</td>
+                                <td>12,000</td>
+                                <td>18,000</td>
+                                <td>22,000</td>
                             </tr>
                         </tbody>
                     </table>
