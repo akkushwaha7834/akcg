@@ -271,7 +271,7 @@
       <div class="row gy-4">
          <div class="col-12">
             <h2 class="text-primary">Welcome to Dilli Call Girl: Your Trusted Source for Genuine Companionship in Delhi</h2>
-            <p>LAt Dilli Call Girl, we are committed to offering a secure and discreet platform for those seeking genuine companionship in the heart of Delhi. Our selection of call girls is carefully curated to ensure that you find not only beautiful and attractive companions but also those who are intelligent, engaging, and respectful. Whether you're looking for someone to accompany you to a social event or prefer a more private and intimate experience, we have the right companion to suit your needs.</p>
+            <p>At Dilli Call Girl, we are committed to offering a secure and discreet platform for those seeking genuine companionship in the heart of Delhi. Our selection of call girls is carefully curated to ensure that you find not only beautiful and attractive companions but also those who are intelligent, engaging, and respectful. Whether you're looking for someone to accompany you to a social event or prefer a more private and intimate experience, we have the right companion to suit your needs.</p>
             <h3 class="text-primary">
                Why Choose Us?
             </h3>
@@ -464,58 +464,332 @@
             <h2 class="text-white mb-4">Top Cities</h2>
          </div>
       </div>
-      <div class="row gy-3 row-cols-lg-5 row-cols-md-3 row-cols-2">
+      <div class="row justify-content-center">
          <div>
-            <ul class="list-unstyled d-flex flex-column gap-2 mb-0">
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+            <ul class="list-unstyled city-lists mb-0">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Lucknow Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Delhi Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Pune Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Hyderabad Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Noida Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Chennai Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Bangalore Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Bandra Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Mumbai Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Lucknow Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Delhi Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Pune Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Hyderabad Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Noida Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Chennai Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bangalore Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bandra Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Mumbai Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Lucknow Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Delhi Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Pune Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Hyderabad Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Noida Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Chennai Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bangalore Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bandra Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Mumbai Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Lucknow Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Delhi Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Pune Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Hyderabad Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Noida Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Chennai Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bangalore Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bandra Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Mumbai Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Lucknow Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Delhi Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Pune Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Hyderabad Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Noida Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Chennai Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bangalore Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bandra Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Mumbai Escort</a>
+               </li>
+            </ul>
+         </div>
+         <!-- <div>
+            <ul class="list-unstyled d-flex flex-column gap-2 mb-0">
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Lucknow Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Delhi Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Pune Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Hyderabad Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Noida Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Chennai Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bangalore Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bandra Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
@@ -525,55 +799,55 @@
          </div>
          <div>
             <ul class="list-unstyled d-flex flex-column gap-2 mb-0">
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Lucknow Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Delhi Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Pune Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Hyderabad Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Noida Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Chennai Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Bangalore Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Bandra Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
@@ -583,55 +857,55 @@
          </div>
          <div>
             <ul class="list-unstyled d-flex flex-column gap-2 mb-0">
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Lucknow Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Delhi Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Pune Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Hyderabad Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Noida Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Chennai Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Bangalore Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Bandra Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
@@ -641,120 +915,62 @@
          </div>
          <div>
             <ul class="list-unstyled d-flex flex-column gap-2 mb-0">
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Lucknow Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Delhi Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Pune Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Hyderabad Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Noida Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Chennai Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Bangalore Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Bandra Escort</a>
                </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
+               <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
                   <a href="#">Mumbai Escort</a>
                </li>
             </ul>
-         </div>
-         <div>
-            <ul class="list-unstyled d-flex flex-column gap-2 mb-0">
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Lucknow Escort</a>
-               </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Delhi Escort</a>
-               </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Pune Escort</a>
-               </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Hyderabad Escort</a>
-               </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Noida Escort</a>
-               </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Chennai Escort</a>
-               </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Bangalore Escort</a>
-               </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Bandra Escort</a>
-               </li>
-               <li class="d-flex gap-2 align-items-center p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Mumbai Escort</a>
-               </li>
-            </ul>
-         </div>
+         </div> -->
       </div>
    </div>
 </section>

@@ -561,8 +561,7 @@ footer{
     display: flex;
     gap: 12px;
     margin-bottom: 12px;
-    justify-content: space-between;
-    flex-direction: row-reverse;
+    justify-content: center;
 }
 .recommended {
     position: absolute;
@@ -595,4 +594,21 @@ footer{
     border-radius: 8px;
     border: 1px solid #EBEBEF;
     transition-duration: .3s;
+}
+.city-lists {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    text-align: center;
+}
+
+@media (max-width: 991.98px) {
+    .city-lists {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media (max-width: 767.98px) {
+    .city-lists {
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
