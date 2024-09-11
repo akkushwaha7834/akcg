@@ -601,6 +601,14 @@ footer{
     gap: 20px;
     text-align: center;
 }
+.gallery_image img{
+    border-radius: 10px;
+}
+
+
+
+
+
 
 @media (max-width: 991.98px) {
     .city-lists {
