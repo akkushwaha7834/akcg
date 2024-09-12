@@ -16,15 +16,11 @@
          <div class="col-md-12">
             <div class="product-list-box">
                <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
                         <img loading="lazy" src="./assets/img/nandini.webp" alt="100% Secure Genuine Call Girl in Indore">
                      </div>
-                  </a>
                   <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
-                        <h4>Nandini Chopra: 100% Secure & Genuine Call Girl in Indore</h4>
-                     </a>
+                     <h4>Nandini Chopra: 100% Secure & Genuine Call Girl in Indore</h4>
                      <p>⭐⭐⭐⭐⭐ Experience unmatched companionship with Nandini Chopra, a 100% secure and genuine call girl in Indore. Known for her elegance and warm personality, Nandini ensures every moment spent together is filled with comfort and excitement. ⭐⭐⭐⭐⭐</p>
                      <ul>
                         <li>Escorts</li>
@@ -45,15 +41,11 @@
             </div>
             <div class="product-list-box">
                <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
-                     <div class="product-img">
-                        <img loading="lazy" src="./assets/img/kavya-khanna.webp" alt="100% Secure Genuine Call Girl in Indore">
-                     </div>
-                  </a>
+                  <div class="product-img">
+                     <img loading="lazy" src="./assets/img/kavya-khanna.webp" alt="100% Secure Genuine Call Girl in Indore">
+                  </div>
                   <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
-                        <h4>Kavya Khanna: Trusted and Discreet Call Girl in Indore</h4>
-                     </a>
+                     <h4>Kavya Khanna: Trusted and Discreet Call Girl in Indore</h4>
                      <p>⭐⭐⭐⭐⭐ Kavya Khanna offers a trusted and discreet experience in Indore. With her captivating charm and refined elegance, Kavya provides a sophisticated companionship that caters to your every need, ensuring a secure and enjoyable time together. ⭐⭐⭐⭐⭐</p>
                      <ul>
                         <li>Escorts</li>
@@ -74,15 +66,11 @@
             </div>
             <div class="product-list-box">
                <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
-                     <div class="product-img">
-                        <img loading="lazy" src="./assets/img/rubi-mishra.webp" alt="100% Secure Genuine Call Girl in Indore">
-                     </div>
-                  </a>
+                  <div class="product-img">
+                     <img loading="lazy" src="./assets/img/rubi-mishra.webp" alt="100% Secure Genuine Call Girl in Indore">
+                  </div>
                   <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
                         <h4>Rubi Mishra: 100% Secure Genuine Call Girl in Indore</h4>
-                     </a>
                      <p>⭐⭐⭐⭐⭐ Rubi Mishra stands out as an exclusive and authentic call girl in Indore. Her vibrant personality and genuine nature make her the ideal companion for any occasion, offering a safe and fulfilling experience that you’ll cherish. ⭐⭐⭐⭐⭐</p>
                      <ul>
                         <li>Escorts</li>
@@ -103,15 +91,11 @@
             </div>
             <div class="product-list-box">
                <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
                         <img loading="lazy" src="./assets/img/renuka-chaudhary.webp" alt="100% Secure Genuine Call Girl in Indore">
                      </div>
-                  </a>
                   <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
                         <h4>Renuka Chaudhary: Reliable & Secure Call Girl in Indore</h4>
-                     </a>
                      <p>⭐⭐⭐⭐⭐ Renuka Chaudhary is a reliable and secure choice for those seeking a genuine call girl in Indore. With her poise and intelligence, Renuka offers a personalized experience that combines comfort and excitement, ensuring your time together is truly special. ⭐⭐⭐⭐⭐</p>
                      <ul>
                         <li>Escorts</li>
@@ -132,15 +116,11 @@
             </div>
             <div class="product-list-box">
                <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
                         <img loading="lazy" src="./assets/img/diya-sharma.webp" alt="100% Secure Genuine Call Girl in Indore">
                      </div>
-                  </a>
                   <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
                         <h4>Diya Sharma: Genuine & Sophisticated Call Girl in Indore</h4>
-                     </a>
                      <p>⭐⭐⭐⭐⭐ Diya Sharma is known for her genuine approach and sophisticated demeanor, making her one of the top call girls in Indore. Diya’s secure and discreet services guarantee a memorable experience, tailored to meet your expectations. ⭐⭐⭐⭐⭐</p>
                      <ul>
                         <li>Escorts</li>
@@ -161,15 +141,11 @@
             </div>
             <div class="product-list-box">
                <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
                         <img loading="lazy" src="./assets/img/rupika.webp" alt="100% Secure Genuine Call Girl in Indore">
                      </div>
-                  </a>
                   <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
                         <h4>Rupika: Safe & Trustworthy Call Girl in Indore</h4>
-                     </a>
                      <p>⭐⭐⭐⭐⭐ Rupika offers a safe and trustworthy companionship experience in Indore. With her engaging personality and attention to detail, Rupika ensures that your time together is both secure and enjoyable, making every moment count. ⭐⭐⭐⭐⭐</p>
                      <ul>
                         <li>Escorts</li>
@@ -190,15 +166,11 @@
             </div>
             <div class="product-list-box">
                <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
                         <img loading="lazy" src="./assets/img/nidhi.webp" alt="100% Secure Genuine Call Girl in Indore">
                      </div>
-                  </a>
                   <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
                         <h4>Nidhi: Secure & Genuine Call Girl in Indore</h4>
-                     </a>
                      <p>⭐⭐⭐⭐⭐ Nidhi is a secure and genuine call girl in Indore, known for her warm and welcoming presence. Whether you’re looking for a companion for a night out or a quiet evening, Nidhi provides an experience that is both authentic and unforgettable. ⭐⭐⭐⭐⭐</p>
                      <ul>
                         <li>Escorts</li>
@@ -219,15 +191,11 @@
             </div>
             <div class="product-list-box">
                <div class="product-inner-list">
-                  <a class="product-img-link" rel="nofollow" href="#">
                      <div class="product-img">
                         <img loading="lazy" src="./assets/img/kinjal.webp" alt="100% Secure Genuine Call Girl in Indore">
                      </div>
-                  </a>
                   <div class="product-list-detail">
-                     <a rel="nofollow" href="#">
                         <h4>Kinjal: Trusted & Authentic Call Girl in Indore</h4>
-                     </a>
                      <p>⭐⭐⭐⭐⭐ Kinjal stands out as a trusted and authentic call girl in Indore, offering a secure and discreet service that caters to your desires. Her grace and charm make her the perfect companion for any occasion, ensuring a memorable and enjoyable experience. ⭐⭐⭐⭐⭐</p>
                      <ul>
                         <li>Escorts</li>
@@ -497,105 +465,51 @@
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
-                  <a href="#">Lucknow Escort</a>
+                  <a href="#">Saket Nagar Escort</a>
                </li>
                <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
-                  <a href="#">Indore Escort</a>
+                  <a href="#">Vijay Nagar</a>
                </li>
                <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
-                  <a href="#">Pune Escort</a>
+                  <a href="#">Palasia Escort</a>
                </li>
                <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
-                  <a href="#">Hyderabad Escort</a>
+                  <a href="#">Bhawar Kuan Escort</a>
                </li>
                <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
-                  <a href="#">Noida Escort</a>
+                  <a href="#">Juni Indore Escort</a>
                </li>
                <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
-                  <a href="#">Chennai Escort</a>
+                  <a href="#">Rajwada Escort</a>
                </li>
                <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
-                  <a href="#">Bangalore Escort</a>
+                  <a href="#">Pithampur Escort</a>
                </li>
                <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
-                  <a href="#">Bandra Escort</a>
+                  <a href="#">Mahalakshmi Nagar Escort</a>
                </li>
-               <li class="p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Mumbai Escort</a>
-               </li>
-               <li class="p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Lucknow Escort</a>
-               </li>
-               <li class="p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Indore Escort</a>
-               </li>
-               <li class="p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Pune Escort</a>
-               </li>
-               <li class="p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Hyderabad Escort</a>
-               </li>
-               <li class="p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Noida Escort</a>
-               </li>
-               <li class="p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Chennai Escort</a>
-               </li>
-               <li class="p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Bangalore Escort</a>
-               </li>
-               <li class="p-2 rounded location-tag">
-                  <span>
-                  <i class="fa-solid fa-location-dot"></i>
-                  </span>
-                  <a href="#">Bandra Escort</a>
-               </li>
-               <li class="p-2 rounded location-tag">
+               <!-- <li class="p-2 rounded location-tag">
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
@@ -763,6 +677,60 @@
                   </span>
                   <a href="#">Mumbai Escort</a>
                </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Lucknow Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Indore Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Pune Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Hyderabad Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Noida Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Chennai Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bangalore Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Bandra Escort</a>
+               </li>
+               <li class="p-2 rounded location-tag">
+                  <span>
+                  <i class="fa-solid fa-location-dot"></i>
+                  </span>
+                  <a href="#">Mumbai Escort</a>
+               </li> -->
             </ul>
          </div>
       </div>

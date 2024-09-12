@@ -16,9 +16,14 @@
                     <strong>E-mail:</strong>
                     <span class="text-decoration-underline">contact@website.com</span>
                 </p>
-                <h2>Lorem ipsum dolor sit</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus odit, modi quae nesciunt molestiae deleniti ipsa rerum debitis consequatur minima voluptas incidunt libero omnis natus maxime in possimus tenetur dignissimos dolorem tempora. Hic aspernatur consequatur esse itaque repudiandae obcaecati! Quod!</p>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi, reiciendis?</p>
+                <h2>Contact Us: Indore Call Girls</h2>
+                <p>We are here to assist you with any inquiries or bookings in the most discreet and professional manner. Whether you have specific requirements or need help selecting the perfect companion, feel free to reach out. Our team ensures confidentiality and prompt responses.</p>
+                <p>
+                    You can contact us via phone or email, and we will guide you through the booking process with ease. We’re committed to making your experience with Indore Call Girls smooth, private, and memorable.
+                </p>
+                <h5>
+                    Get in touch today to arrange your perfect companion!
+                </h5>
             </div>
             <div class="col-lg-4">
                 <div class="bookform">
