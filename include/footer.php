@@ -4,7 +4,7 @@
         <div class="row gy-4">
             <div class="col-lg-3">
                 <div class="h5 fw-medium text-decoration-underline text-white mb-3">DESCLAIMER</div>
-                <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat voluptate reiciendis eaque debitis beatae commodi illum dignissimos cumque sequi ratione?</p>
+                <p class="mb-0">Make your nights in Indore unforgettable with the company of a top-tier Indore call girl. These call girls offer more than just beauty; they bring charm, sophistication, and a personalized touch to every encounter. </p>
             </div>
             <div class="col-lg-8 offset-lg-1">
                 <div class="row gy-4">
@@ -22,7 +22,7 @@
                     <div class="col-md-4 col-6">
                         <div class="h5 fw-medium text-decoration-underline text-white mb-3">TOP CITIES</div>
                         <ul class="list-unstyled">
-                            <li><a href="#">Delhi Escort</a></li>
+                            <li><a href="#">Indore Escort</a></li>
                             <li><a href="#">Pune Escort</a></li>
                             <li><a href="#">Hyderabad Escort</a></li>
                             <li><a href="#">Noida Escort</a></li>
@@ -52,7 +52,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="rgba(255,255,255,1)" height="1em">
                                     <path d="M21 20H23V22H1V20H3V3C3 2.44772 3.44772 2 4 2H20C20.5523 2 21 2.44772 21 3V20ZM8 11V13H11V11H8ZM8 7V9H11V7H8ZM8 15V17H11V15H8ZM13 15V17H16V15H13ZM13 11V13H16V11H13ZM13 7V9H16V7H13Z"></path>
                                 </svg>
-                                <span>Delhi, New Delhi</span>
+                                <span>Indore, New Indore</span>
                             </li>
                         </ul>
                     </div>
@@ -112,7 +112,7 @@
                             </li>
                             <li class="d-flex gap-3 py-2 px-3 rounded">
                                 <strong class="text-primary">Location:</strong>
-                                <span>Delhi, New Delhi</span>
+                                <span>Indore, New Indore</span>
                             </li>
                             <li class="d-flex gap-3 py-2 px-3 rounded">
                                 <strong class="text-primary">Figure:</strong>

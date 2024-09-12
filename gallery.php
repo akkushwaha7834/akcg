@@ -22,79 +22,49 @@
             <div class="col-md-12">
                 <ul class="list-unstyled city-lists gallery_image">
                     <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
+                        <img src="./assets/img/seema.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/2.jpg" class="img-fluid">
+                        <img src="./assets/img/renuka-chaudhary.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/3.jpg" class="img-fluid">
+                        <img src="./assets/img/diya-sharma.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/4.jpg" class="img-fluid">
+                        <img src="./assets/img/rupika.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/5.jpg" class="img-fluid">
+                        <img src="./assets/img/nidhi.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/6.jpg" class="img-fluid">
+                        <img src="./assets/img/kinjal.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/7.jpg" class="img-fluid">
+                        <img src="./assets/img/nisha.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/8.jpg" class="img-fluid">
+                        <img src="./assets/img/aavni.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/9.jpg" class="img-fluid">
+                        <img src="./assets/img/kavya-khanna.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/10.jpg" class="img-fluid">
+                        <img src="./assets/img/ritika.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/11.jpg" class="img-fluid">
+                        <img src="./assets/img/sapna.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/12.jpg" class="img-fluid">
+                        <img src="./assets/img/sanaaya.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/13.jpg" class="img-fluid">
+                        <img src="./assets/img/seema.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
+                        <img src="./assets/img/nandini.webp" class="img-fluid">
                     </li>
                     <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
-                    </li>
-                    <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
-                    </li>
-                    <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
-                    </li>
-                    <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
-                    </li>
-                    <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
-                    </li>
-                    <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
-                    </li>
-                    <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
-                    </li>
-                    <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
-                    </li>
-                    <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
-                    </li>
-                    <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
-                    </li>
-                    <li>
-                        <img src="./assets/img/1.jpg" class="img-fluid">
+                        <img src="./assets/img/rubi-mishra.webp" class="img-fluid">
                     </li>
                 </ul>
             </div>

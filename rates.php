@@ -86,7 +86,7 @@
                         <a href="#">
                            <h5 class="card-title text-primary">Nisha</h5>
                         </a>
-                        <p class="card-text line-clamp-3">Nisha offers an unforgettable experience with her charm and beauty, ensuring a secure and enjoyable time in Delhi.</p>
+                        <p class="card-text line-clamp-3">Nisha offers an unforgettable experience with her charm and beauty, ensuring a secure and enjoyable time in Indore.</p>
                         <p class="card-text">
                            <small class="text-primary border rounded p-2">Female</small>
                            <small class="text-primary border rounded p-2">24 Yrs</small>
@@ -119,7 +119,7 @@
                         <a href="#">
                            <h5 class="card-title text-primary">Aavni</h5>
                         </a>
-                        <p class="card-text line-clamp-3">Aavni is a delightful and discreet companion in Delhi, bringing elegance and excitement to every moment spent together.</p>
+                        <p class="card-text line-clamp-3">Aavni is a delightful and discreet companion in Indore, bringing elegance and excitement to every moment spent together.</p>
                         <p class="card-text">
                            <small class="text-primary border rounded p-2">Female</small>
                            <small class="text-primary border rounded p-2">19 Yrs</small>
@@ -152,7 +152,7 @@
                         <a href="#">
                            <h5 class="card-title text-primary">Ritika</h5>
                         </a>
-                        <p class="card-text line-clamp-3">Ritika’s vibrant personality and professional approach make her the perfect choice for a truly memorable experience in Delhi.</p>
+                        <p class="card-text line-clamp-3">Ritika’s vibrant personality and professional approach make her the perfect choice for a truly memorable experience in Indore.</p>
                         <p class="card-text">
                            <small class="text-primary border rounded p-2">Female</small>
                            <small class="text-primary border rounded p-2">20 Yrs</small>
@@ -185,7 +185,7 @@
                         <a href="#">
                            <h5 class="card-title text-primary">Sapna</h5>
                         </a>
-                        <p class="card-text line-clamp-3">Sapna delivers a secure, private, and personalized companionship experience in Delhi, ensuring your time together is relaxing.</p>
+                        <p class="card-text line-clamp-3">Sapna delivers a secure, private, and personalized companionship experience in Indore, ensuring your time together is relaxing.</p>
                         <p class="card-text">
                            <small class="text-primary border rounded p-2">Female</small>
                            <small class="text-primary border rounded p-2">27 Yrs</small>
