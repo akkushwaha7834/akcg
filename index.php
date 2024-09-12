@@ -471,7 +471,7 @@
                   <span>
                   <i class="fa-solid fa-location-dot"></i>
                   </span>
-                  <a href="#">Vijay Nagar</a>
+                  <a href="#">Vijay Nagar Escort</a>
                </li>
                <li class="p-2 rounded location-tag">
                   <span>

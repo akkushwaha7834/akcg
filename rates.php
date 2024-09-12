@@ -196,21 +196,5 @@
    </div>
 </section>
 
-<section>
-   <div class="container">
-      <div class="row gy-4">
-         <div class="col-12">
-            <h2 class="text-primary">Call Girls in Lucknow Escorts Service</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos ipsam itaque quia sit impedit enim nemo alias consectetur corporis tempore dolor iure fugiat, sed id minima doloremque quasi suscipit, beatae debitis earum, magnam blanditiis! Tempora unde consequatur ipsa assumenda deleniti. Dolores perspiciatis aliquid quibusdam doloribus dolor sequi quam, autem temporibus assumenda veniam reiciendis voluptates eius sint quod suscipit repellat! Nemo ipsum, perferendis facilis earum veritatis repellat soluta delectus. Quis numquam voluptatem porro dolores architecto velit maxime illo eveniet distinctio officia?</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, deleniti alias cum tenetur aut velit deserunt consequatur harum aspernatur eaque magnam dolore culpa architecto necessitatibus labore numquam dignissimos quas soluta.</p>
-         </div>
-         <div class="col-12">
-            <h2 class="text-primary">Call Girls in Lucknow Escorts Service</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos ipsam itaque quia sit impedit enim nemo alias consectetur corporis tempore dolor iure fugiat, sed id minima doloremque quasi suscipit, beatae debitis earum, magnam blanditiis! Tempora unde consequatur ipsa assumenda deleniti. Dolores perspiciatis aliquid quibusdam doloribus dolor sequi quam, autem temporibus assumenda veniam reiciendis voluptates eius sint quod suscipit repellat! Nemo ipsum, perferendis facilis earum veritatis repellat soluta delectus. Quis numquam voluptatem porro dolores architecto velit maxime illo eveniet distinctio officia?</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, deleniti alias cum tenetur aut velit deserunt consequatur harum aspernatur eaque magnam dolore culpa architecto necessitatibus labore numquam dignissimos quas soluta.</p>
-         </div>
-      </div>
-   </div>
-</section>
 
 <?php include_once('include/footer.php'); ?>

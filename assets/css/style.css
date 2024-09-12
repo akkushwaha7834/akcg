@@ -99,6 +99,7 @@ button:focus {
 section.banner {
     position: relative;
     padding: 0;
+    margin-top: 50px;
 }
 .banner::after {
     content: "";

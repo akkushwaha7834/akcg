@@ -13,8 +13,7 @@
                         <ul class="list-unstyled">
                             <li><a href="./">Home</a></li>
                             <li><a href="./about.php">About</a></li>
-                            <li><a href="./profile.php">Profile</a></li>
-                            <li><a href="./service.php">Service</a></li>
+                            <li><a href="./gallery.php">Gallery</a></li>
                             <li><a href="./rates.php">Rates</a></li>
                             <li><a href="./contact.php">Contact</a></li>
                         </ul>
@@ -22,11 +21,12 @@
                     <div class="col-md-4 col-6">
                         <div class="h5 fw-medium text-decoration-underline text-white mb-3">TOP CITIES</div>
                         <ul class="list-unstyled">
-                            <li><a href="#">Indore Escort</a></li>
-                            <li><a href="#">Pune Escort</a></li>
-                            <li><a href="#">Hyderabad Escort</a></li>
-                            <li><a href="#">Noida Escort</a></li>
-                            <li><a href="#">Chennai Escort</a></li>
+                            <li><a href="#">Saket Nagar Escort</a></li>
+                            <li><a href="#">Vijay Nagar Escort</a></li>
+                            <li><a href="#">Palasia Escort</a></li>
+                            <li><a href="#">Bhawar Kuan Escort</a></li>
+                            <li><a href="#">Rajwada Escort</a></li>
+                            <li><a href="#">Pithampur Escort</a></li>
                         </ul>
                     </div>
                     <div class="col-md-4">
@@ -52,7 +52,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="rgba(255,255,255,1)" height="1em">
                                     <path d="M21 20H23V22H1V20H3V3C3 2.44772 3.44772 2 4 2H20C20.5523 2 21 2.44772 21 3V20ZM8 11V13H11V11H8ZM8 7V9H11V7H8ZM8 15V17H11V15H8ZM13 15V17H16V15H13ZM13 11V13H16V11H13ZM13 7V9H16V7H13Z"></path>
                                 </svg>
-                                <span>Indore, New Indore</span>
+                                <span>Indore, MP</span>
                             </li>
                         </ul>
                     </div>
