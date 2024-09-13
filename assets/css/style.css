@@ -101,7 +101,7 @@ section.banner {
     padding: 0;
     margin-top: 50px;
 }
-.banner::after {
+/*.banner::after {
     content: "";
     position: absolute;
     width: 100%;
@@ -109,8 +109,8 @@ section.banner {
     top: 0;
     left: 0;
     background-image: linear-gradient(90deg, #274690 0%, #0077B6 40%, rgba(210, 5, 104, 0) 100%);
-    /* background-image: linear-gradient(90deg, #274690 0%, #0077B6 40%, #274690 100%); */
-}
+    background-image: linear-gradient(90deg, #274690 0%, #0077B6 40%, #274690 100%); 
+}*/
 .nav-link {
     --bs-nav-link-color: var(--white);
     --bs-nav-link-font-weight: 500;
