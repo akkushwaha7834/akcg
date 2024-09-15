@@ -96,10 +96,15 @@ button:focus {
     background: var(--primary);
 }
 
+a.navbar-brand{
+    max-width: 150px;
+    display: block;
+}
+
 section.banner {
     position: relative;
     padding: 0;
-    margin-top: 50px;
+    margin-top: 80px;
 }
 /*.banner::after {
     content: "";
