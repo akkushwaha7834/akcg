@@ -610,7 +610,8 @@ footer{
 .gallery_image img{
     border-radius: 10px;
 }
-
+.internal_link_class{color: blue;}
+.internal_link_class:hover{color: red;}
 
 
 
