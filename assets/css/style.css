@@ -435,7 +435,7 @@ footer{
     color: var(--white);
 }
 .bg-dark-section{
-    background: var(--primary);
+    background: linear-gradient(90deg, rgb(183 0 141) 0%, rgba(128, 0, 128) 51%, rgb(241 20 120) 100%);
 }
 .profile-gallery ul li {
     margin: 5px;
